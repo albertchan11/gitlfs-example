@@ -1,5 +1,0 @@
-signer_sdk_user filter=lfs diff=lfs merge=lfs -text
-signer_sdk_user.2 filter=lfs diff=lfs merge=lfs -text
-signer_sdk_user.3 filter=lfs diff=lfs merge=lfs -text
-signer_sdk_user.4 filter=lfs diff=lfs merge=lfs -text
-signer_sdk_user.5 filter=lfs diff=lfs merge=lfs -text
